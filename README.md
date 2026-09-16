@@ -171,7 +171,18 @@ const ari = {
 ---
 
 ## `> github.matrix`
-
+<p align="center">
+  <img
+    src="./metrics.languages.svg"
+    alt="Languages"
+    width="49%"
+  />
+  <img
+    src="./metrics.repositories.svg"
+    alt="Repositories"
+    width="49%"
+  />
+</p>
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=aristoph-ubrain&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=C8FFD4" width="100%" alt="GitHub Stats" />
