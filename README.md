@@ -49,7 +49,7 @@
 </tr>
 </table>
 
-## `> whoami`
+## `> whoami `
 
 Sou **José Ari**, desenvolvedor de software com experiência em aplicações **web e mobile**, integração de APIs, otimização de aplicações e boas práticas de código.
 
