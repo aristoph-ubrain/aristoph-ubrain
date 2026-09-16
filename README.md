@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:001a08,75:003d19,100:00ff41&height=190&section=header&text=%3E_%20WAKE%20UP%2C%20ARI&fontColor=00FF41&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" />
 
-# `JOSÉ ARI // SOFTWARE DEVELOPER`
+# `ARISTOPH UBRAIN // SOFTWARE DEVELOPER`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2800&pause=900&color=00FF41&center=true&vCenter=true&width=650&lines=There+is+no+spoon.+There+is+only+code.;React+%7C+React+Native+%7C+TypeScript;Web+%7C+Mobile+%7C+APIs+%7C+Databases;Build.+Debug.+Refactor.+Ship.;Welcome+to+my+GitHub+Matrix." alt="Typing animation" />
 
