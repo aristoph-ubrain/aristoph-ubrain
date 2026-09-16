@@ -171,6 +171,7 @@ const ari = {
 ---
 
 ## `> github.matrix`
+
 <p align="center">
   <img
     src="./metrics.languages.svg"
@@ -183,20 +184,6 @@ const ari = {
     width="49%"
   />
 </p>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=aristoph-ubrain&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&bg_color=050505&title_color=00FF41&icon_color=00FF41&text_color=C8FFD4" width="100%" alt="GitHub Stats" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aristoph-ubrain&layout=compact&hide_border=true&bg_color=050505&title_color=00FF41&text_color=C8FFD4" width="100%" alt="Top Languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=aristoph-ubrain&hide_border=true&background=050505&stroke=003B15&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=7AFF9A&currStreakNum=C8FFD4&sideNums=C8FFD4" width="100%" alt="GitHub Streak" />
-
-</div>
-
 ---
 
 ## `> contribution.matrix`
