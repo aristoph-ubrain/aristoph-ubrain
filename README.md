@@ -179,12 +179,7 @@ const ari = {
     width="600"
   />
 </p>
-  <img
-    src="./metrics.repositories.svg"
-    alt="Repositories"
-    width="49%"
-  />
-</p>
+
 ---
 
 ## `> contribution.matrix`
