@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:tie.jr9@gmail.com">
+<a href="mailto:aristophubrain@proton.me">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"/>
 </a>
 
@@ -213,13 +213,13 @@ $ ssh ari@github
 
 > github    : github.com/aristoph-ubrain
 > linkedin  : linkedin.com/in/aristoph-ubrain
-> email     : tie.jr9@gmail.com
+> email     : aristophubrain@proton.me
 > location  : Fortaleza - CE, Brazil
 </pre>
 
 <div align="center">
 
-<a href="mailto:tie.jr9@gmail.com">
+<a href="mailto:aristophubrain@proton.me">
 <img src="https://img.shields.io/badge/LET'S_BUILD-00FF41?style=for-the-badge&logo=gnubash&logoColor=000000" alt="Let's Build"/>
 </a>
 
