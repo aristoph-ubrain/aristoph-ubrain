@@ -6,10 +6,6 @@ on:
 
   workflow_dispatch:
 
-  push:
-    branches:
-      - main
-
 permissions:
   contents: write
 
@@ -31,17 +27,3 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 6
-
-      - name: Generate Repositories
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.repositories.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-
-          user: aristoph-ubrain
-
-          base: ""
-
-          plugin_repositories: yes
-          plugin_repositories_pinned: 6
-          plugin_repositories_order: pinned, starred, random
