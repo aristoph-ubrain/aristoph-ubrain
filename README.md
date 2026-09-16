@@ -176,8 +176,9 @@ const ari = {
   <img
     src="./metrics.languages.svg"
     alt="Languages"
-    width="49%"
+    width="600"
   />
+</p>
   <img
     src="./metrics.repositories.svg"
     alt="Repositories"
